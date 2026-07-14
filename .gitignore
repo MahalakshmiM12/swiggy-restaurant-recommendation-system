@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+swiggy.csv
+cleaned_data.csv
+encoded_data.csv
+encoder.pkl
+kmeans_model.pkl
